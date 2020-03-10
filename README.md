@@ -11,6 +11,8 @@ microsoft documentation learn
 - https://docs.microsoft.com/en-us/learn/
 <br>Azure documentation 
 - https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/
+- https://docs.microsoft.com/en-in/azure/
+<br> Online platform to learn 
 - https://www.udemy.com/courses/development/
 <br>MIT opencourseware algorithms
 - https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
@@ -61,6 +63,10 @@ MSP Inspire channel
 - https://twitter.com/mspinspire?lang=en
 <br>How to apply
 - https://medium.com/@adityaoberai/the-microsoft-student-partner-program-how-to-apply-6c2224866137
+<br>Imagine Cup 
+- https://imaginecup.microsoft.com/en-us
+
+
 ## Connect with me 
 - https://www.linkedin.com/in/adityanarayana/
 - https://www.instagram.com/adithyanarayana/

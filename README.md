@@ -17,7 +17,8 @@ microsoft documentation learn
 - https://ocw.mit.edu/index.htm
 <br>another online plateform to learn programming 
 - https://progate.com/
-
+<br>microsoft certifications
+- https://www.microsoft.com/en-us/learning/certification-overview.aspx
 
 ## quora links 
 

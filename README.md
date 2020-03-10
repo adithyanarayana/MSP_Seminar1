@@ -1,6 +1,9 @@
 # MSP_Seminar1
 Resources for Intro to MSP+Azure 
 
+Please Register 
+<Br> https://docs.google.com/forms/d/157uxNFUndmb25ZRShV7p4opZlrwdVyWylOTDd9GlSOQ/edit
+
 ## Hosting Website on Azure 
 - https://docs.microsoft.com/en-gb/learn/modules/welcome-to-azure/4-exercise-create-website
 <br> Create Free account in Azure 
@@ -25,9 +28,10 @@ microsoft documentation learn
 ## quora links 
 
 - https://www.quora.com/q/miornsdczawystcn/How-can-Tier-3-Tier-4-engineering-college-and-Arts-college-students-get-placed-in-Google-facebook-Amazon-etc-etc
--
--
--
+- https://www.quora.com/What-programming-skills-of-today-will-never-get-outdated
+- https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-C++-in-2-3-months
+- https://www.quora.com/How-can-one-get-out-of-the-comfort-zone-in-order-to-succeed
+- https://www.quora.com/What-planning-is-required-for-a-1st-year-CSE-student-to-have-a-bright-future
 
 ## stuff from YouTube
 MSP Inspire channel 

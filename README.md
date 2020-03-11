@@ -4,8 +4,6 @@
 # MSP_Seminar1
 Resources for Intro to MSP+Azure 
 
-Please Register 
-<Br> https://docs.google.com/forms/d/157uxNFUndmb25ZRShV7p4opZlrwdVyWylOTDd9GlSOQ/edit
 
 ## Hosting Website on Azure 
 - https://docs.microsoft.com/en-gb/learn/modules/welcome-to-azure/4-exercise-create-website
